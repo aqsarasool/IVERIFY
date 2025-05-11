@@ -15,17 +15,18 @@
 
 ---
 
-🛠️ Built With
-Technology	Usage
-Flutter	Cross-platform UI framework
-Dart	Programming language for Flutter
-Firebase Firestore	Cloud NoSQL database (optional use)
-Web3dart	Blockchain interaction (smart contracts)
-Solidity	Smart contract language
-Git & GitHub	Version control
-Postman	API testing
-VS Code / Android Studio	Development environment
----
+## 🛠️ Built With
+
+| Technology            | Usage                                      |
+|-----------------------|--------------------------------------------|
+| [Flutter](https://flutter.dev)             | Cross-platform UI framework              |
+| [Dart](https://dart.dev)                   | Programming language for Flutter         |
+| [Firebase Firestore](https://firebase.google.com/products/firestore) | Cloud NoSQL database (optional use)     |
+| [Web3dart](https://pub.dev/packages/web3dart)           | Blockchain interaction (smart contracts) |
+| [Solidity](https://soliditylang.org)       | Smart contract language                  |
+| [Git](https://git-scm.com) & [GitHub](https://github.com)         | Version control                          |
+| [Postman](https://www.postman.com)         | API testing                              |
+| [VS Code](https://code.visualstudio.com) / [Android Studio](https://developer.android.com/studio) | Development environment                |
 
 
 🚀 Getting Started
