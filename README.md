@@ -15,56 +15,24 @@
 
 ---
 
-## 🛠️ Built With
-
-| Technology | Usage |
-|------------|--------|
-| Laravel    | Backend framework (PHP) |
-| MySQL      | Relational database |
-| Blade      | Laravel's templating engine |
-| Bootstrap / Tailwind | UI styling |
-| PHPUnit    | Unit and feature testing |
-| Selenium WebDriver | Automated browser testing  |
-| Git & GitHub | Version control |
-| Postman    | API testing |
-
+🛠️ Built With
+Technology	Usage
+Flutter	Cross-platform UI framework
+Dart	Programming language for Flutter
+Firebase Firestore	Cloud NoSQL database (optional use)
+Web3dart	Blockchain interaction (smart contracts)
+Solidity	Smart contract language
+Git & GitHub	Version control
+Postman	API testing
+VS Code / Android Studio	Development environment
 ---
-
-## 📂 Project Structure
-/iverify
-│
-├── /flutter_app                 # Flutter frontend project
-│   ├── /lib
-│   │   ├── main.dart            # App entry point
-│   │   ├── /views               # UI screens (Home, Login, Dashboard, etc.)
-│   │   ├── /widgets             # Reusable widgets
-│   │   ├── /services            # API, Web3, and blockchain interaction code
-│   │   └── /models              # Data models
-│   └── pubspec.yaml             # Flutter dependencies
-│
-├── /blockchain                 # Smart contract project (e.g., Hardhat or Truffle)
-│   ├── /contracts              # Solidity contracts (e.g., iVerify.sol)
-│   ├── /scripts                # Deployment and interaction scripts
-│   └── .env                    # Environment variables (Infura, private key, etc.)
-│
-└── README.md                   # Project documentation
 
 
 🚀 Getting Started
 Follow these steps to set up the project locally, including the Flutter app and the blockchain smart contract backend.
 
-📱 Flutter Frontend Setup
-1. Clone the Repository
 
-git clone https://github.com/aqsarasool/iverify.git
-cd iverify/flutter_app  # or your actual Flutter project folder
-2. Install Dependencies
-
-flutter pub get
-3. Run the App
-
-flutter run
-Make sure a device or emulator is connected.
+f
 
 🔗 Blockchain Backend Setup
 Assuming you're using Solidity for smart contracts .
